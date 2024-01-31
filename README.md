@@ -23,6 +23,8 @@ python3 train.py --config ./configs/x2.yml
 
 ## Note
 The implementation of this project is based on the following codes:
+
 https://github.com/clovaai/cutblur
+
 https://github.com/xindongzhang/ELAN
 
